@@ -1,4 +1,5 @@
 # DSP-Machine-Problem
+This was solved alongside Christian Cuaresma and Jerald Tadena.
 ## Application 1: Transmission Lines
 In communication systems, transmission media are necessary to carry signals from one location to another. Transmission media can be guided or unguided. We will simulate a guided transmission line using a coaxial cable in this item. A good transmission line (uniform characteristic impedance) must be able to transmit all the power from the transmitting end to the receiving end. However, if the transmission line is damaged, some power gets reflected, which is undesired.
 
